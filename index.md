@@ -5,16 +5,13 @@ A "fork" of [elenapan](https://github.com/elenapan)'s [bunnyfetch](https://githu
 
 PS: I don't know how to fork single scripts from larger repos.
 
-### Download
-Click the "Download script" button to the left and choose "Save As..." from the right-click menu on the page that appears.
-
 ### Install
-Copy the fetch script to somewhere on your `$PATH` and make it executable by running `chmod a+x ./cutefetch` in the directory it is located.
-
-I use `$HOME/.local/bin/`
+- Click the "Download script" button and save it somewhere on your `$PATH`
+- Make it executable by running `chmod a+x ./cutefetch` in the directory it is located
+  I use `$HOME/.local/bin/`
 
 ### Usage
-After installation, run `cutefetch` in the terminal.
+After installing, run `cutefetch` in the terminal.
 
 Command line arguments can be passed to specify the animal and eye style.
 
