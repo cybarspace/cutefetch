@@ -5,6 +5,10 @@ A "fork" of [elenapan](https://github.com/elenapan)'s [bunnyfetch](https://githu
 
 PS: I don't know how to fork single scripts from larger repos.
 
+### Dependencies
+- A terminal emulator with good font support, especially multiple fallback fonts. I use kitty.
+- Typicons ([typicons-git](http://aur.archlinux.org/packages/ttf-typicons) in AUR, [website](https://www.s-ings.com/typicons/))
+
 ### Install
 - Click the "Download script" button and save it somewhere on your `$PATH` (I use `$HOME/.local/bin/`).
 - Make it executable by running `chmod a+x ./cutefetch` in the directory it is located.
